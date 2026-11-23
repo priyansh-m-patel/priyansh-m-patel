@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/priyansh-patel-094ba8285">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/BloodNova001">
+  <a href="https://github.com/priyansh-m-patel?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Projects-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
